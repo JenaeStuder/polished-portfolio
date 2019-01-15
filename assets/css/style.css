@@ -168,8 +168,8 @@ font-family: 'Give You Glory', cursive; */
       /* background-color: rgb(60, 78, 76, .8); */
   }
   #links{
-    margin: 30% 10%;
-    border: 30%;
+    margin: 30% 20%;
+    border-top: 50%;
   }
   #projectLink{
     color: rgb(60, 78, 76);
@@ -194,6 +194,7 @@ font-family: 'Give You Glory', cursive; */
     color: rgb(60, 78, 76);
     background-color: rgb(232, 234, 208, .5);
     text-align: center;
+    padding: 5%;
     border: 3%;
     border-radius: 5px;
 
